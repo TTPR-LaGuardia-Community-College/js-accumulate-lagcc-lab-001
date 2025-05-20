@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/accum-img.png?auto=format&fit=crop&w=1200&q=80" alt="Colorful dice tumbling" width="600">
+  <img src="./img/accum-img.png?auto=format&fit=crop&w=1200&q=80" alt="Colorful accumulate pic with students" width="600">
 </p>
 ---
 languages: javascript
@@ -27,9 +27,12 @@ Your code should be able to produce the collection of squares:
 - 1, 4, 9, 16, 25
 
 To run the specs follow these commands:
+
 - first install the required node modules to run the tests
-````npm install````
+  `npm install`
 - to run in the command line run
-````npm test -- spec/accumulate-spec.js````
+  `npm test -- spec/accumulate-spec.js`
+
 ### or, via the custom script in package.json
-````npm run answer````
+
+`npm run answer`
