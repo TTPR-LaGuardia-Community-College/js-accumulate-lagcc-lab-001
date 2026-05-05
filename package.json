@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "test":   "jasmine",                         
-    "answer": "jasmine spec/accumulate-spec.js"   
-  },
+  "test": "jasmine",
+  "answer": "jasmine spec/accumulate-spec.js"
+},
   "devDependencies": {
     "jasmine": "^5.0.0"
   }
